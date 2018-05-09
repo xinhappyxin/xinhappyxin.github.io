@@ -1,8 +1,7 @@
 User-agent: *
-Disallow:  /A/
-Disallow:  /B/
-Disallow:  /C/
-Disallow:  /d/
-Disallow:  /1.jpg
+Disallow: /A/B/
+Disallow: /C/
+Disallow: /321.jpg
+Disallow: /1.jpg
 
-Sitemap: https://www.xinhappyxin.com/sitemap.xml
+Sitemap: https://xinhappyxin.github.io/sitemap.xml
