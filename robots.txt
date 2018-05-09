@@ -1,6 +1,8 @@
 User-agent: *
-Disallow: /search/
-Disallow: /Error.html
-Disallow: /favicon.ico
+Disallow:  /A/
+Disallow:  /B/
+Disallow:  /C/
+Disallow:  /d/
+Disallow:  /1.jpg
 
 Sitemap: https://www.xinhappyxin.com/sitemap.xml
