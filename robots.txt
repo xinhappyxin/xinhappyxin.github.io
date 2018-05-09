@@ -1,7 +1,12 @@
-User-agent: *
-Disallow: /A/B/
-Disallow: /C/
-Disallow: /321.jpg
-Disallow: /1.jpg
+ser-agent: *
+Disallow: /A/
+Disallow: /B/
+Disallow: /c/
+Disallow: /e/
+Disallow: /123.jpg
+
+ser-agent: baidspider
+Disallow: /SEO/
+Disallow: /123.gif
 
 Sitemap: https://xinhappyxin.github.io/sitemap.xml
