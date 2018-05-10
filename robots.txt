@@ -1,12 +1,6 @@
-ser-agent: *
-Disallow: /A/
-Disallow: /B/
-Disallow: /c/
-Disallow: /e/
-Disallow: /123.jpg
+User-agent: *
+Disallow: /search/
+Disallow: /Error.html
+Disallow: /favicon.ico
 
-ser-agent: baidspider
-Disallow: /SEO/
-Disallow: /123.gif
-
-Sitemap: https://xinhappyxin.github.io/sitemap.xml
+Sitemap: https://www.seohzz.com/sitemap.xml
