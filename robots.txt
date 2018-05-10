@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /search/
-Disallow: /Error.html
-Disallow: /favicon.ico
-
-Sitemap: https://www.seohzz.com/sitemap.xml
